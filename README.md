@@ -1,2 +1,2 @@
-# Code for Analyzing and Interpreting Atmospheric Science Data
+This repository consist of codes for analyzing and interpreting Atmospheric Science Data
 
