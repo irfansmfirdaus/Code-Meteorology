@@ -1,3 +1,2 @@
-# Thesis_AtmSci_py
+# Code for Analyzing and Interpreting Atmospheric Science Data
 
-Python code from my Thesis research in Atmospheric Science, Bandung Institute of Technology, Indonesia.
